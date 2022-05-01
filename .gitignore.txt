@@ -24,4 +24,4 @@
 .idea/**/libraries
 
 # Gradle and Maven with auto-import
-# When using 
+# When using
